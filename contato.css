@@ -1,0 +1,50 @@
+header{
+  background: #bbb;
+  padding: 20px 0;
+  
+}
+
+.caixa{
+  width: 940px;
+  position: relative;
+  margin: auto;
+}
+nav{
+  position: absolute;
+  top:110px;
+  right: 0px;
+  vertical-align: auto;
+}
+nav li{
+  display: inline;
+  margin: 0 0 0 15px;
+}
+nav a {
+  text-transform: uppercase;
+  color: black;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+}
+nav a:hover{
+  color: #c78c29;
+  text-decoration: underline;
+}
+
+ main h1{
+ font-size: large;
+ font-size: 30px;
+ margin: 30px 0 0 30px;
+ padding: 10px 0 5px 30px;
+}
+main h2{
+  font-size: large;
+  font-size: 25px;
+  margin: 0 0 0 30px;
+  padding: 5px 0 0 30px;
+}
+
+.map-resp{
+  margin: 10px 0 20px 30px;
+  padding: 5px 0 20px 30px;
+}
